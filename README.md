@@ -76,7 +76,7 @@ real-time monitoring of model performance statistics and service health across c
 • Developed an ETL pipeline using Pyspark, Airflow and PostgreSQL for performing predictive modelling using
 linear regression models, to further identify defective parts and optimize production system parameters
 
-<div width="100%" align="center"><a href="https://github.com/Ishaan-Datta/IMM_Research_Project" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan-Datta&repo=IMM_Research_Project&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Ishaan-Datta/IMM_Research_Project" align="left"><img align="left" width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan-Datta&repo=IMM_Research_Project&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 
   ### :closed_lock_with_key: [3FA - Multi-Factor Authentication System](https://github.com/Computing-Collective/3FA)
