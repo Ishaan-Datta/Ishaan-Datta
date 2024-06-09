@@ -68,17 +68,15 @@
 <details open>
   <summary>:card_file_box: My Projects</summary>
 
-  ### :computer: [Personal Website](https://github.com/ElioDiNino/eliodinino.com)
+  ### :pipe: [Machine Learning Pipeline](https://dwavequantum.com/)
+Trained and deployed a robust convolutional neural network using PyTorch to detect defects for over 200
+injection-moulded parts within an automated industrial production system with over 94% accuracy
+• Implemented Grafana dashboards integrated with Prometheus and Kubernetes metrics, enabling continuous
+real-time monitoring of model performance statistics and service health across computing systems
+• Developed an ETL pipeline using Pyspark, Airflow and PostgreSQL for performing predictive modelling using
+linear regression models, to further identify defective parts and optimize production system parameters
 
-  ### :ocean: [D-Wave Quantum](https://dwavequantum.com/)
-  I worked as a DevOps Co-op to improve existing systems and introduce new technologies. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
-  - Implemented a new Kubernetes-based development platform utilizing Terraform to automate setup and define infrastructure as code, simplifying programming environments for over 80 individuals and boosting efficiency by 20%
-  - Overhauled the build and publication process of company Docker images by creating a Jenkins function that runs builds in the on-premises Kubernetes cluster, reducing work required by 95% and eliminating previous cloud costs
-  - Centralized company Docker images in a single repository that automated all build, testing, and publishing steps with only 6 lines of configuration per image, eliminating redundant Jenkins pipelines and improving overall organization
-  - Developed Grafana dashboards integrated with Prometheus metrics, enabling real-time monitoring of service health and key statistics, resulting in improved visibility and informed decision-making
-  - Pioneered a Terraform provider template in Golang which allowed multiple internal providers to be created and automatically deployed to Artifactory for general use
-<div width="100%" align="center"><a href="https://github.com/jtsang02/ScorePort" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=ScorePort&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a>
-<a href="https://github.com/jtsang02/spatial-calc-js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=spatial-calc-js&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ishaan-Datta/<reponame>" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan-Datta&repo=<reponame>t&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
 
 
   ### :closed_lock_with_key: [3FA - Multi-Factor Authentication System](https://github.com/Computing-Collective/3FA)
@@ -86,9 +84,9 @@
   - Designed and implemented the authentication flow which included session and authentication tokens, encrypted communications, hashed passwords, and automatic timeouts to meet OWASP security standards
   - Reduced manual work by 7x with GitHub workflows to automate testing for all parts of the system, create app releases and executables, package the backend as a Docker image, and automated dependency updates
   - Used Pytest to achieve 98% line and branch coverage as well as set up Postman to improve manual testing
-<div width="100%" align="center"><a href="https://github.com/jtsang02/DSA-in-Python-Jovian" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=DSA-in-Python-Jovian&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" />
+<div width="100%" align="center"><a href="https://github.com/jtsang02/DSA-in-Python-Jovian" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=DSA-in-Python-Jovian&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /> </a></div>
 
-<a href="https://github.com/jtsang02/project-opener" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=project-opener&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/jtsang02/project-opener" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=project-opener&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /><br /><br /><br /><br /><br /><br />
 </details>
 ⚙️
 🌐
