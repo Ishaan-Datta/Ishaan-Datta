@@ -26,45 +26,45 @@
   <ul>
     <li>I'm a third year Manufacturing Engineering student at the University of British Columbia</li>
     <li>I'm interested in software applications for machine learning, devops and embedded software systems </li>
-    <li>I'm currently the system architecture head at  <a href="[UBC Agrobot](https://ubcagrobot.com/)"</a> </li>
-    <li>I've also worked as an undergraduate research assistant for the <a href="[UBC Manufacturing Engineering Department](https://manufacturing.engineering.ubc.ca/)"></li>
+    <li>I'm currently the system architecture head at  <a href="https://ubcagrobot.com/">UBC Agrobot</a> </li>
+    <li>I've also worked as an undergraduate research assistant for the <a href="https://manufacturing.engineering.ubc.ca/">UBC Manufacturing Engineering Department</a></li>
   </ul>
 </p>
 
 <h3>Languages: </h3>
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <h3>Libraries/Frameworks: </h3>
 <p>
-<img alt="OpenCV" src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 <h3>Platforms/Tools: </h3>
 <br>
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Terraform" src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Airflow" src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Grafana" src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="Prometheus" src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="Spark" src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="AWS" src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black" />
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 <!----- Projects ----->
