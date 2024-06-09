@@ -66,7 +66,7 @@
 <!----- Projects ----->
 <h3>I'm currently working on:</h3>
 <details open>
-  <h3>:card_file_box: My Projects</h3>
+  <summary>:card_file_box: My Projects</summary>
 
   ### :computer: [Personal Website](https://github.com/ElioDiNino/eliodinino.com)
 
