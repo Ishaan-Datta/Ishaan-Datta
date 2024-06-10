@@ -11,7 +11,7 @@
 <!--   <a href="https://eliodinino.com">
     <img src="https://img.shields.io/badge/Website-22242d?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge">
   </a> -->
-  <a href="https://eliodinino.com/Resume.pdf">
+  <a href="https://drive.google.com/file/d/1GtKjAVvh8-N9s_xgi1c8JIYwgCybGZhS/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-22242d?style=for-the-badge&logo=giphy&logoColor=white" alt="Resume Badge">
   </a>
   <a href="mailto:ishaandatta737@gmail.com">
@@ -68,25 +68,30 @@
 <details open>
   <summary>:card_file_box: My Projects</summary>
 
-  ### :pipe: [Machine Learning Pipeline](https://dwavequantum.com/)
-Trained and deployed a robust convolutional neural network using PyTorch to detect defects for over 200
-injection-moulded parts within an automated industrial production system with over 94% accuracy
-• Implemented Grafana dashboards integrated with Prometheus and Kubernetes metrics, enabling continuous
-real-time monitoring of model performance statistics and service health across computing systems
-• Developed an ETL pipeline using Pyspark, Airflow and PostgreSQL for performing predictive modelling using
-linear regression models, to further identify defective parts and optimize production system parameters
+  ### ⚙️ Machine Learning Pipeline
+ As an undergraduate research assistant at UBC, I worked to improve existing systems and implement machine learning for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
+  - Trained and deployed a robust convolutional neural network using PyTorch to detect defects for over 200 injection-moulded parts within an automated industrial production system with over 94% accuracy
+  - Implemented Grafana dashboards integrated with Prometheus and Kubernetes metrics, enabling continuous real-time monitoring of model performance statistics and service health across computing systems
+  - Developed an ETL pipeline using Pyspark, Airflow and PostgreSQL for performing predictive modelling using linear regression models, to further identify defective parts and optimize production system parameters
+  
+  ### 🎥 [IBM Capstone Project](https://github.com/Ishaan-Datta/IBM-Capstone-Project)
+  - Trained a personalized recommendation engine using an stacked-RBM auto-encoder in TensorFlow using wandb.ai, to generate recommendations for my movie watch list
+  - Deployed an end-to-end machine learning pipeline using AWS for cloud hosting the model and provisioned resources for components using Terraform and KubeFlow
+  - Served data from Pandas, NumPy, Matplotlib and Scikit-learn libraries through back-end FastAPI endpoints to front-end site made using GoLang
 
-<div width="100%" align="center"><a href="https://github.com/Ishaan-Datta/IMM_Research_Project" align="left"><img align="left" width="70%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan-Datta&repo=IMM_Research_Project&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+  ### 🤖 [Agrobots DevOps Pipelines](https://github.com/korih-dev/dev-containers)
+  - Developed custom multi-platform Docker image for ROS2 applications on Jetpack Linux, including configuration deployment using Docker Compose, greatly simplifying programming environments for team members
+  - Reduced manual work by 80% with Github Actions to automate all build, testing and publishing steps, improving overall organization and reducing development cycle time and resulting in faster competition prototyping
+  - Maintained comprehensive technical project documentation and developer guides for internal usage, reducing on-boarding time and speeding up the team’s machine learning development cycles by over 25%
 
+  ### 🌱 [Agrobots Embedded Systems](https://github.com/UBCAgroBot/AppliedAI)
+  - Researched emerging technologies and designed an efficient machine learning model for detecting grape clusters within vineyards using TensorFlow/Keras to be deployed in an autonomous field robot for crop management
+  - Designed and implemented ROS2 architecture using C++/Python for efficient low-latency communication pipeline between nodes, enabling software integration with navigation and extermination systems
+  - Reduced model inference latency from 1.5s to 0.1s using TensorRT optimization and CUDA GPU streams, increasing throughput by over 7x and enabling real-time processing and synchronization with hardware components
 
-  ### :closed_lock_with_key: [3FA - Multi-Factor Authentication System](https://github.com/Computing-Collective/3FA)
-  - Created a backend API in Python using Flask and SQLite with over 20 endpoints to authenticate users and serve files
-  - Designed and implemented the authentication flow which included session and authentication tokens, encrypted communications, hashed passwords, and automatic timeouts to meet OWASP security standards
-  - Reduced manual work by 7x with GitHub workflows to automate testing for all parts of the system, create app releases and executables, package the backend as a Docker image, and automated dependency updates
-  - Used Pytest to achieve 98% line and branch coverage as well as set up Postman to improve manual testing
-<div width="100%" align="center"><a href="https://github.com/jtsang02/DSA-in-Python-Jovian" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=DSA-in-Python-Jovian&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /> </a></div>
+  ### 🏒 [UBC BizTech ProduHacks](https://github.com/UBCAgroBot/AppliedAI)
+  - Competed in an artificial intelligence themed hackathon to develop an object detection model for predicting the severity of hockey player collisions based on live video feed and suggest recommended actions for coaches
+  - Utilized transfer learning to build a custom model using YOLOv5 and PyTorch, and combined results with OpenCV filters to reach 73% final accuracy in player collision detection in less than 24 hours
+  - Placed among top 5 finalists from 30 other student teams and won the prize for best Minimum Viable Product, judged by industry developers and other hackathon participant groups
 
-<a href="https://github.com/jtsang02/project-opener" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=project-opener&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /><br /><br /><br /><br /><br /><br />
 </details>
-⚙️
-🌐
