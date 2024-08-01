@@ -1,24 +1,5 @@
 <!----- Intro ----->
 
-<p id="profile-picture" align="center">
-  <img width=30% src="https://github.com/Ishaan-Datta/Ishaan-Datta/blob/main/profile.png" alt="Profile Picture">
-</p>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/Ishaan-Datta/">
-    <img src="https://img.shields.io/badge/LinkedIn-22242d?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-  </a>
-<!--   <a href="https://eliodinino.com">
-    <img src="https://img.shields.io/badge/Website-22242d?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge">
-  </a> -->
-  <a href="https://drive.google.com/file/d/1GtKjAVvh8-N9s_xgi1c8JIYwgCybGZhS/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-22242d?style=for-the-badge&logo=giphy&logoColor=white" alt="Resume Badge">
-  </a>
-  <a href="mailto:ishaandatta737@gmail.com">
-    <img src="https://img.shields.io/badge/Email-22242d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-</div>
-
 <h2>Hi, I'm Ishaan Datta!</h2>
 <!-- <h2>Hi, I'm <a href="https://joeywang.ca/">Ishaan Datta</a>!</h2> -->
 
