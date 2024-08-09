@@ -1,56 +1,84 @@
-<!----- Intro ----->
+<!----- Picture & Links ----->
 
-<h2>Hi, I'm Ishaan Datta!</h2>
-<!-- <h2>Hi, I'm <a href="https://joeywang.ca/">Ishaan Datta</a>!</h2> -->
-
-<p>
-  <ul>
-    <li>I'm a third year Manufacturing Engineering student at the University of British Columbia</li>
-    <li>I'm interested in software applications for machine learning, devops and embedded software systems </li>
-    <li>I'm currently the system architecture head at  <a href="https://ubcagrobot.com/">UBC Agrobot</a> </li>
-    <li>I've also worked as an undergraduate research assistant for the <a href="https://manufacturing.engineering.ubc.ca/">UBC Manufacturing Engineering Department</a></li>
-  </ul>
+<p id="profile-picture" align="center">
+  <img width=30% src="Profile Pic.png" alt="Profile Picture">
 </p>
 
-<h3>Languages: </h3>
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/Ishaan-Datta/">
+    <img src="https://img.shields.io/badge/LinkedIn-22242d?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+  <!-- <a href="https://eliodinino.com">
+    <img src="https://img.shields.io/badge/Website-22242d?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge">
+  </a> -->
+  <!-- maybe google drive link instead? -->
+  <a href="Software_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-22242d?style=for-the-badge&logo=giphy&logoColor=white" alt="Resume Badge">
+  </a>
+  <a href="mailto:Ishaandatta737@gmail.com.com">
+    <img src="https://img.shields.io/badge/Email-22242d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+  </a>
+</div>
+
+<br/>
+
+<!----- About Me ----->
+<h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
+
+*   🌍  I'm a third year engineering student studying at the University of British Columbia
+*   🧠  I'm learning Terraform and AWS for cloud native development and machine learning pipelines
+*   🌱  I'm currently the DevOps Engineering Lead at [UBC Agrobot](https://ubcagrobot.com/)
+*   🖥️   I've also worked as an Software Engineer for the [UBC Manufacturing Engineering Department](https://manufacturing.engineering.ubc.ca/)
+*   ✉️  You can contact me at [Ishaandatta737@gmail.com](mailto:Ishaandatta737@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ishaan-datta/)
+*   🤝  I'm open to collaborating on any hackathons or other events in the Vancouver tech space
+
+
+<!-- Skills -->
+Skills:
+--------------------------
+<p align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="Kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="Terraform.svg" width="40" height="40" alt="Terraform" /></a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="Github-Actions.svg" width="40" height="40" alt="Github Actions" /></a>
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="Grafana.svg" width="40" height="40" alt="Grafana" /></a>
+    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="Prometheus.svg" width="40" height="40" alt="Prometheus" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-<h3>Libraries/Frameworks: </h3>
-<p>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
+<!-- <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a> -->
 
-<h3>Platforms/Tools: </h3>
-<br>
-<p>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-</p>
 
-<!----- Projects ----->
-<h3>I'm currently working on:</h3>
-<details open>
-  <summary>:card_file_box: My Projects</summary>
+<details>
+  <summary style="font-size: 1.5em;">🗃️ My previous projects:</summary>
+
+### 🤖 [Agrobots DevOps Pipelines](https://github.com/korih-dev/dev-containers)
+  - Developed custom multi-platform Docker image for ROS2 applications on Jetpack Linux, including configuration deployment using Docker Compose, greatly simplifying programming environments for team members
+  - Reduced manual work by 80% with Github Actions to automate all build, testing and publishing steps, improving overall organization and reducing development cycle time and resulting in faster competition prototyping
+
+  ---
+
+</details>
+
+<details open> 
+  <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
 
   ### ⚙️ Machine Learning Pipeline
- As an undergraduate research assistant at UBC, I worked to improve existing systems and implement machine learning for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
+  As an undergraduate research assistant at UBC, I worked to improve existing systems and implement machine learning for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
   - Trained and deployed a robust convolutional neural network using PyTorch to detect defects for over 200 injection-moulded parts within an automated industrial production system with over 94% accuracy
   - Implemented Grafana dashboards integrated with Prometheus and Kubernetes metrics, enabling continuous real-time monitoring of model performance statistics and service health across computing systems
   - Developed an ETL pipeline using Pyspark, Airflow and PostgreSQL for performing predictive modelling using linear regression models, to further identify defective parts and optimize production system parameters
@@ -63,16 +91,4 @@
   ### 🤖 [Agrobots DevOps Pipelines](https://github.com/korih-dev/dev-containers)
   - Developed custom multi-platform Docker image for ROS2 applications on Jetpack Linux, including configuration deployment using Docker Compose, greatly simplifying programming environments for team members
   - Reduced manual work by 80% with Github Actions to automate all build, testing and publishing steps, improving overall organization and reducing development cycle time and resulting in faster competition prototyping
-  - Maintained comprehensive technical project documentation and developer guides for internal usage, reducing on-boarding time and speeding up the team’s machine learning development cycles by over 25%
-
-  ### 🌱 [Agrobots Embedded Systems](https://github.com/UBCAgroBot/AppliedAI)
-  - Researched emerging technologies and designed an efficient machine learning model for detecting grape clusters within vineyards using TensorFlow/Keras to be deployed in an autonomous field robot for crop management
-  - Designed and implemented ROS2 architecture using C++/Python for efficient low-latency communication pipeline between nodes, enabling software integration with navigation and extermination systems
-  - Reduced model inference latency from 1.5s to 0.1s using TensorRT optimization and CUDA GPU streams, increasing throughput by over 7x and enabling real-time processing and synchronization with hardware components
-
-  ### 🏒 [UBC BizTech ProduHacks](https://github.com/UBCAgroBot/AppliedAI)
-  - Competed in an artificial intelligence themed hackathon to develop an object detection model for predicting the severity of hockey player collisions based on live video feed and suggest recommended actions for coaches
-  - Utilized transfer learning to build a custom model using YOLOv5 and PyTorch, and combined results with OpenCV filters to reach 73% final accuracy in player collision detection in less than 24 hours
-  - Placed among top 5 finalists from 30 other student teams and won the prize for best Minimum Viable Product, judged by industry developers and other hackathon participant groups
-
 </details>
