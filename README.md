@@ -63,7 +63,7 @@ Skills:
 <details>
   <summary style="font-size: 1.5em;">🗃️ My previous projects:</summary>
 
-    ### ⚙️ [Undergraduate Research @ UBC](https://manufacturing.engineering.ubc.ca/)
+  ### ⚙️ [Undergraduate Research @ UBC](https://manufacturing.engineering.ubc.ca/)
   As an undergraduate research assistant at UBC, I worked to improve existing systems and implement multithreading for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
   - Improved concurrent database access/querying functionality for legacy SQLite database application by integrating multi-threaded architecture, increasing read and write throughput by 120%.
   - Configured dynamic Grafana dashboards to visualize system metrics from internal observability tools, yielding monthly savings of 112 person-hours by automating manual database queries.
