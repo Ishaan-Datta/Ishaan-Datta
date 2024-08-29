@@ -28,7 +28,7 @@
 *   🌍  I'm a third year engineering student studying at the University of British Columbia
 *   🧠  I'm learning Terraform and AWS for cloud native development and machine learning pipelines
 *   🌱  I'm currently the DevOps Engineering Lead at [UBC Agrobot](https://ubcagrobot.com/)
-*   🖥️   I've previously worked as an Software Engineer for the [UBC Manufacturing Engineering Department](https://manufacturing.engineering.ubc.ca/)
+*   🖥️   I've previously worked as a Software Engineer for the [UBC Manufacturing Engineering Department](https://manufacturing.engineering.ubc.ca/)
 *   ✉️  You can contact me at [Ishaandatta737@gmail.com](mailto:Ishaandatta737@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ishaan-datta/)
 *   🤝  I'm open to collaborating on any hackathons or other events in the Vancouver tech space!
 
