@@ -63,6 +63,12 @@ Skills:
 <details>
   <summary style="font-size: 1.5em;">🗃️ My previous projects:</summary>
 
+    ### ⚙️ [Undergraduate Research @ UBC](https://manufacturing.engineering.ubc.ca/)
+  As an undergraduate research assistant at UBC, I worked to improve existing systems and implement multithreading for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
+  - Improved concurrent database access/querying functionality for legacy SQLite database application by integrating multi-threaded architecture, increasing read and write throughput by 120%.
+  - Configured dynamic Grafana dashboards to visualize system metrics from internal observability tools, yielding monthly savings of 112 person-hours by automating manual database queries.
+  - Enhanced risk mitigation and error reporting measures by 80% through implementation of Prometheus monitoring and alerting system, ensuring consistent logging and reliable system performance.
+
   ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
   - Queried RESTful and graphQL APIs using GoLang to allow users to receive notifications on alternate platforms upon receiving Webhook payloads, leading to 10% increase in response times.
   - Collaborated with other developers and leveraged object-oriented and asynchronous programming concepts to decrease memory usage by 50%.
@@ -79,12 +85,6 @@ Skills:
 
 <details open> 
   <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
-
-  ### ⚙️ [Undergraduate Research @ UBC](https://manufacturing.engineering.ubc.ca/)
-  As an undergraduate research assistant at UBC, I worked to improve existing systems and implement multithreading for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
-  - Improved concurrent database access/querying functionality for legacy SQLite database application by integrating multi-threaded architecture, increasing read and write throughput by 120%.
-  - Configured dynamic Grafana dashboards to visualize system metrics from internal observability tools, yielding monthly savings of 112 person-hours by automating manual database queries.
-  - Enhanced risk mitigation and error reporting measures by 80% through implementation of Prometheus monitoring and alerting system, ensuring consistent logging and reliable system performance.
 
   ### 🌿 [UBC Agrobot](https://ubcagrobot.com)
   I am head of System Architecture and formerly worked on the embedded systems subteam for UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as both a developer and as sub-team lead can be seen below as well as in the past projects section.
