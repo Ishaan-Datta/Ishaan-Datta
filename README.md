@@ -11,7 +11,7 @@
   <!-- <a href="https://ishaandatta.me">
     <img src="https://img.shields.io/badge/Website-22242d?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge">
   </a> -->
-  <a href="https://drive.google.com/file/d/1ey2DkT0KN4gjU5qeDEkMpmn1qLp-_2GU/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/14dE9cAQxtMRg0NSCIITK7-nGBQorym24/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-22242d?style=for-the-badge&logo=giphy&logoColor=white" alt="Resume Badge">
   </a>
   <a href="mailto:Ishaandatta737@gmail.com.com">
