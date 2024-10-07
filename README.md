@@ -26,12 +26,6 @@
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
 
 I am a Canadian Software Engineer, currently living on the coast of Vancouver. Fuelled by my passion for automation and technology, I bring bring technical products to life through my critical thinking, software skills and technical acumen.
-<!-- *   🌍  I'm a fourth year engineering student studying at the University of British Columbia -->
-*   🧠  I'm learning Terraform and AWS for cloud native development
-*   🌱  I'm currently the DevOps Engineering Lead at [UBC Agrobot](https://ubcagrobot.com/)
-*   🖥️  I've previously worked as a Software Engineer for the [UBC Manufacturing Engineering Department](https://manufacturing.engineering.ubc.ca/)
-*   ✉️  You can contact me at [Ishaandatta737@gmail.com](mailto:Ishaandatta737@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ishaan-datta/)
-
 <!-- Skills: -->
 <!-- -------------------------- -->
 <!-- <p align="center"> -->
