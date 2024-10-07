@@ -32,31 +32,31 @@
 *   ✉️  You can contact me at [Ishaandatta737@gmail.com](mailto:Ishaandatta737@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ishaan-datta/)
 *   🤝  I'm open to collaborating on any hackathons or other events in the Vancouver tech space!
 
-Skills:
---------------------------
-<p align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> -->
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-    <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="assets/OpenCV.svg" width="40" height="40" alt="OpenCV" /></a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="assets/Kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a>
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="assets/Terraform.svg" width="40" height="40" alt="Terraform" /></a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="assets/Github-Actions.svg" width="40" height="40" alt="Github Actions" /></a>
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="assets/Grafana.svg" width="40" height="40" alt="Grafana" /></a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="assets/Prometheus.svg" width="40" height="40" alt="Prometheus" /></a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="assets/AWS.svg" width="40" height="40" alt="AWS" /></a>
-</p>
+<!-- Skills: -->
+<!-- -------------------------- -->
+<!-- <p align="center"> -->
+<!--     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
+<!--     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> -->
+<!--     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> -->
+<!--     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> -->
+<!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
+<!--     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> -->
+<!--     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a> -->
+<!--     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> -->
+<!--     <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
+<!--     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> -->
+<!--     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> -->
+<!--     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a> -->
+<!--     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="assets/OpenCV.svg" width="40" height="40" alt="OpenCV" /></a> -->
+<!--     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> -->
+<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> -->
+<!--     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="assets/Kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a> -->
+<!--     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="assets/Terraform.svg" width="40" height="40" alt="Terraform" /></a> -->
+<!--     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="assets/Github-Actions.svg" width="40" height="40" alt="Github Actions" /></a> -->
+<!--     <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="assets/Grafana.svg" width="40" height="40" alt="Grafana" /></a> -->
+<!--     <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="assets/Prometheus.svg" width="40" height="40" alt="Prometheus" /></a> -->
+<!--     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="assets/AWS.svg" width="40" height="40" alt="AWS" /></a> -->
+<!-- </p> -->
 
 <h2>What I'm Up To: </h2>
 <details>
