@@ -32,7 +32,7 @@
 *   ✉️  You can contact me at [Ishaandatta737@gmail.com](mailto:Ishaandatta737@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ishaan-datta/)
 *   🤝  I'm open to collaborating on any hackathons or other events in the Vancouver tech space!
 
-Skills:
+<!----- Skills:
 --------------------------
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -57,7 +57,7 @@ Skills:
     <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="assets/Prometheus.svg" width="40" height="40" alt="Prometheus" /></a>
 <!--     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a> -->
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="assets/AWS.svg" width="40" height="40" alt="AWS" /></a>
-</p>
+<!-- </p>  ----->
 
 <h2>What I'm Up To: </h2>
 <details>
