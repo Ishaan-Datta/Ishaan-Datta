@@ -24,8 +24,14 @@
 
 <!----- About Me ----->
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
+<h2 align="center">Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
 
-I am a Canadian Software Engineer, currently living on the coast of Vancouver. Fuelled by my passion for automation and technology, I bring bring technical products to life through my critical thinking, software skills and technical acumen.
+I'm exploring my interests in DevOps, Software Development/Optimization and Backend System Architecture.
+
+Feel free to send me a message or email: ishaandatta737@gmail.com
+
+Outside of work I like hiking, watching anime and listening to music :)
+
 <!-- Skills: -->
 <!-- -------------------------- -->
 <!-- <p align="center"> -->
