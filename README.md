@@ -24,7 +24,8 @@
 
 <!----- About Me ----->
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
-<h2 align="center">Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
+
+<h2>Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
 
 I'm exploring my interests in DevOps, Software Development/Optimization and Backend System Architecture.
 
