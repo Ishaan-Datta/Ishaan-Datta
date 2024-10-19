@@ -2,22 +2,6 @@
 <p id="profile-picture" align="center">
   <img width=30% src="assets/Profile Pic.png" alt="Profile Picture">
 </p>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/Ishaan-Datta/">
-    <img src="https://img.shields.io/badge/LinkedIn-22242d?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-  </a>
-  <!-- <a href="https://ishaandatta.me">
-    <img src="https://img.shields.io/badge/Website-22242d?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website Badge">
-  </a> -->
-  <a href="https://drive.google.com/file/d/14dE9cAQxtMRg0NSCIITK7-nGBQorym24/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-22242d?style=for-the-badge&logo=giphy&logoColor=white" alt="Resume Badge">
-  </a>
-  <a href="mailto:Ishaandatta737@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-22242d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  </a>
-</div>
 <br/>
 
 <!----- About Me ----->
@@ -43,7 +27,7 @@ Outside of work I like hiking, watching anime and listening to music :)
   - Cleaned and transformed datasets using Excel, then built PowerBI dashboards that communicated insights to internal teams, improving decision-making efficiency.
 
   ### 🌿 [UBC Agrobot (Embedded Software Engineer)](https://ubcagrobot.com)
-  I formerly worked on the embedded systems subteam for UBC Agrobot, focusing on developing real-time software applications applications and optimizing ML image processing using computer vision and GPU optimization techniques, my primary achievements were:
+  I formerly worked on the embedded systems subteam for UBC Agrobot, focusing on developing real-time software applications applications and optimizing ML image processing using computer vision and GPU optimization techniques, my primary achievements include:
   - Led a team of 8 engineers and engaged in system architecture reviews, revamping inter-process communication using C++, Python and ROS2, reducing system-wide latency by over 90%. 
   - Optimized image streaming inference using multi-threading and GPU optimization libraries in an Nvidia Jetson Linux development environment, increasing system throughput by 5x.
   - Spearheaded the development of automated unit, integration and performance testing infrastructure with PyTest and Bash, accelerating sprint delivery by 35%.
