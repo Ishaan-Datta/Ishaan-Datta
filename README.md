@@ -2,7 +2,6 @@
 <p id="profile-picture" align="center">
   <img width=30% src="assets/Profile Pic.png" alt="Profile Picture">
 </p>
-<br/>
 
 <!----- About Me ----->
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
