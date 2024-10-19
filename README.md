@@ -15,6 +15,19 @@ Feel free to send me a message or email: ishaandatta737@gmail.com
 Outside of work I like hiking, watching anime and listening to music :)
 
 <h2>What I'm Up To: </h2>
+<details open> 
+  <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
+
+  ### 🌿 [UBC Agrobot (DevOps Lead)](https://ubcagrobot.com)
+  I am the Lead DevOps Engineer at UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as sub-team lead can be seen below.
+  - Designed and implemented CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, streamlining release cycles by 65%.
+  - Reduced system setup times by 30% using custom multi-platform Docker containers to automate local and staging environment setup and eliminate dependency issues for over 20 developers.
+  - Configured dynamic Grafana dashboards with Prometheus metrics to visualize data streams from multiple internal tools, improving the visibility of key system statistics.
+
+</details>
+
+---
+
 <details>
   <summary style="font-size: 1.5em;">🗃️ My previous projects:</summary>
 
@@ -40,18 +53,5 @@ Outside of work I like hiking, watching anime and listening to music :)
 
   ### 🐍 [Python Script Collection](https://github.com/Ishaan-Datta/Python-Scripts)
   - Created a collection of Python scripts for automating common tasks, including web scraping, data analysis, and file manipulation, saving 10 hours of manual work per week.
-
-</details>
-
----
-
-<details open> 
-  <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
-
-  ### 🌿 [UBC Agrobot (DevOps Lead)](https://ubcagrobot.com)
-  I am the Lead DevOps Engineer at UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as sub-team lead can be seen below.
-  - Designed and implemented CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, streamlining release cycles by 65%.
-  - Reduced system setup times by 30% using custom multi-platform Docker containers to automate local and staging environment setup and eliminate dependency issues for over 20 developers.
-  - Configured dynamic Grafana dashboards with Prometheus metrics to visualize data streams from multiple internal tools, improving the visibility of key system statistics.
 
 </details>
