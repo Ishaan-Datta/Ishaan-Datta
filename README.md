@@ -1,5 +1,4 @@
 <!----- Picture & Links ----->
-
 <p id="profile-picture" align="center">
   <img width=30% src="assets/Profile Pic.png" alt="Profile Picture">
 </p>
@@ -19,13 +18,12 @@
   </a>
   </a>
 </div>
-
 <br/>
 
 <!----- About Me ----->
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
 
-## Lead Software Engineer @ UBC Agrobot | Engineering @ UBC
+<h2 align="center"> Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
 
 I'm exploring my interests in DevOps, Software Development/Optimization and Backend System Architecture.
 
@@ -33,48 +31,29 @@ Feel free to send me a message or email: ishaandatta737@gmail.com
 
 Outside of work I like hiking, watching anime and listening to music :)
 
-<!-- Skills: -->
-<!-- -------------------------- -->
-<!-- <p align="center"> -->
-<!--     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
-<!--     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> -->
-<!--     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> -->
-<!--     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> -->
-<!--     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> -->
-<!--     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> -->
-<!--     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a> -->
-<!--     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> -->
-<!--     <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a> -->
-<!--     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> -->
-<!--     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> -->
-<!--     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a> -->
-<!--     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="assets/OpenCV.svg" width="40" height="40" alt="OpenCV" /></a> -->
-<!--     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> -->
-<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> -->
-<!--     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="assets/Kubernetes.svg" width="40" height="40" alt="Kubernetes" /></a> -->
-<!--     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="assets/Terraform.svg" width="40" height="40" alt="Terraform" /></a> -->
-<!--     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="assets/Github-Actions.svg" width="40" height="40" alt="Github Actions" /></a> -->
-<!--     <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="assets/Grafana.svg" width="40" height="40" alt="Grafana" /></a> -->
-<!--     <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="assets/Prometheus.svg" width="40" height="40" alt="Prometheus" /></a> -->
-<!--     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="assets/AWS.svg" width="40" height="40" alt="AWS" /></a> -->
-<!-- </p> -->
-
 <h2>What I'm Up To: </h2>
 <details>
   <summary style="font-size: 1.5em;">🗃️ My previous projects:</summary>
 
-  ### ⚙️ [Undergraduate Research @ UBC](https://manufacturing.engineering.ubc.ca/)
-  As an undergraduate research assistant at UBC, I worked to improve existing systems and implement multithreading for improving automation systems. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
-  - Improved concurrent database access/querying functionality for legacy SQLite database application by integrating multi-threaded architecture, increasing read and write throughput by 120%.
-  - Configured dynamic Grafana dashboards to visualize system metrics from internal observability tools, yielding monthly savings of 112 person-hours by automating manual database queries.
-  - Enhanced risk mitigation and error reporting measures by 80% through implementation of Prometheus monitoring and alerting system, ensuring consistent logging and reliable system performance.
+  ### ⚙️ [UBC Department of Manufacturing Engineering](https://manufacturing.engineering.ubc.ca/)
+  As a Software Engineer working in undergraduate research, I worked to define and implement data storage systems and perform data analysis. Although none of the code or systems I have developed are public, here is a summary of my biggest accomplishments:
+  - Architected a PostgreSQL database schema supporting 10+ tables and indexes, improving data retrieval times by 62% through the integration of Redis in-memory caching.
+  - Implemented a backend API layer in Python using Flask-RESTful, yielding monthly savings of 112 person-hours by abstracting database queries.
+  - Performed exploratory data analysis using NumPy and Pandas, identifying key data trends and patterns, which were visualized with Seaborn and Matplotlib.
+  - Cleaned and transformed datasets using Excel, then built PowerBI dashboards that communicated insights to internal teams, improving decision-making efficiency.
+
+  ### 🌿 [UBC Agrobot (Embedded Software Engineer)](https://ubcagrobot.com)
+  I formerly worked on the embedded systems subteam for UBC Agrobot, focusing on developing real-time software applications applications and optimizing ML image processing using computer vision and GPU optimization techniques, my primary achievements were:
+  - Led a team of 8 engineers and engaged in system architecture reviews, revamping inter-process communication using C++, Python and ROS2, reducing system-wide latency by over 90%. 
+  - Optimized image streaming inference using multi-threading and GPU optimization libraries in an Nvidia Jetson Linux development environment, increasing system throughput by 5x.
+  - Spearheaded the development of automated unit, integration and performance testing infrastructure with PyTest and Bash, accelerating sprint delivery by 35%.
+  - Identified and resolved 7+ system bottlenecks using profiling and function trace reports from Py-Spy, perf and Nsight Systems, ensuring robust code functionality.
 
   ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
-  - Queried RESTful and graphQL APIs using GoLang to allow users to receive notifications on alternate platforms upon receiving Webhook payloads, leading to 10% increase in response times.
-  - Collaborated with other developers and leveraged object-oriented and asynchronous programming concepts to decrease memory usage by 50%.
+  - Constructed GoLang application to query REST/GraphQL APIs upon receiving webhook payloads and send notifications to users on alternative platforms, increasing response times by 20%.
 
-  ### ☁️ [IBM DevOps Capstone Project](https://github.com/Ishaan-Datta/AWS-Deployment)
-  - Developed infrastrucure-as-code templates on AWS via Terraform and automated deployments of service containers using Kubernetes and Helm to power a cloud-hosted movie recommendation website.
+  ### ☁️ [Automated AWS Deployment](https://github.com/Ishaan-Datta/AWS-Deployment)
+  - Developed infrastructure-as-code templates on AWS using Terraform, and automated container deployments using Kubernetes/Helm, powering a cloud-hosted movie recommendation website.
 
   ### 🐍 [Python Script Collection](https://github.com/Ishaan-Datta/Python-Scripts)
   - Created a collection of Python scripts for automating common tasks, including web scraping, data analysis, and file manipulation, saving 10 hours of manual work per week.
@@ -86,11 +65,10 @@ Outside of work I like hiking, watching anime and listening to music :)
 <details open> 
   <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
 
-  ### 🌿 [UBC Agrobot](https://ubcagrobot.com)
-  I am head of System Architecture and formerly worked on the embedded systems subteam for UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as both a developer and as sub-team lead can be seen below as well as in the past projects section.
-  - Implemented DevOps practices to streamline development and deployment processes, including improving cross-platform compatibility with Docker containers and making related CI/CD pipelines with GitHub Actions (e.g. [Agrobots DevOps Pipelines](https://github.com/korih-dev/dev-containers))
-  - [ROS2 system architecture](https://github.com/UBCAgroBot/AppliedAI): developed embedded system for autonomous navigation and control of agricultural robots, including integration of cameras with GPU-accelerated hardware for real-time machine learning applications
-  - Delivered internal back-end applications to generate system performance reports to other engineering teams, significantly improving process for benchmarking machine learning models.
-
+  ### 🌿 [UBC Agrobot (DevOps Lead)](https://ubcagrobot.com)
+  I am the Lead DevOps Engineer at UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as sub-team lead can be seen below.
+  - Designed and implemented CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, streamlining release cycles by 65%.
+  - Reduced system setup times by 30% using custom multi-platform Docker containers to automate local and staging environment setup and eliminate dependency issues for over 20 developers.
+  - Configured dynamic Grafana dashboards with Prometheus metrics to visualize data streams from multiple internal tools, improving the visibility of key system statistics.
 
 </details>
