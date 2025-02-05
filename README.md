@@ -50,7 +50,7 @@ Outside of work I like hiking, watching anime and listening to music :)
   - Built and maintained CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, reducing release times by 63%
 
   ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
-  - ●	Decreased response times by 55% by developing a GoLang application to improve notification visibility on Slack using GitHub APIs and webhook payloads
+  - Decreased response times by 55% by developing a GoLang application to improve notification visibility on Slack using GitHub APIs and webhook payloads
 
   ### ☁️ [Automated AWS Deployment](https://github.com/Ishaan-Datta/AWS-Deployment)
   - Reduced project deployment times by over 71% using Helm IaC templates to automate microservice architecture configuration on Kubernetes clusters across 5+ multiple availability zones 
