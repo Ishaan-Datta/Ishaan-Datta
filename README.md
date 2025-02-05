@@ -18,7 +18,7 @@ Outside of work I like hiking, watching anime and listening to music :)
 <details open> 
   <summary style="font-size: 1.5em;">📂 Current Projects:</summary>
 
-  ### 🌿 [UBC Agrobot (Software Engineer Lead)](https://ubcagrobot.com)
+  ### 🌿 [UBC Agrobot (Lead Software Engineer)](https://ubcagrobot.com)
   I am the Lead DevOps Engineer at UBC Agrobot, a design team focused on designing autonomous agriculture robots and their support systems. The team repositories can be seen here. Some of my notable contributions as sub-team lead can be seen below.
   - Led a team of 8 engineers to upgrade ML model deployment infrastructure for real-time applications using TensorRT and GPU memory optimizations, reducing inference times by 83%
   - Optimized image processing performance using CUDA-accelerated matrix operations, increasing GPU utilization efficiency and overall detection throughput by 49%
