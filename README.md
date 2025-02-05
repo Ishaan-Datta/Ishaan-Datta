@@ -6,7 +6,7 @@
 <!----- About Me ----->
 <h1 align="center">Hi, 👋 I'm Ishaan Datta! </h1>
 
-<h2 align="center"> Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
+<!----- <h2 align="center"> Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2> ----->
 
 I'm exploring my interests in Robotics, DevOps and Backend Infrastructure.
 
