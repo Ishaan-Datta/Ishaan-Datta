@@ -25,6 +25,9 @@ Outside of work I like hiking, watching anime and listening to music :)
   - Developed an autonomous navigation system using LiDAR and camera fusion for precise localization and mapping, improving mapping precision to within 0.1 meters
   - Implemented physics-based Gazebo simulations to fine-tune motion planning and control algorithms in dynamic environments
 
+  ### 🖥️ [Docker SSH Client](https://github.com/Ishaan-Datta/Docker-SSH-Client)
+  - Created a GoLang CLI tool to enable seamless SSH container access across local and remote environments, including user authentication and real-time status updates through gRPC services
+
 </details>
 
 ---
@@ -45,9 +48,6 @@ Outside of work I like hiking, watching anime and listening to music :)
   - Automated unit, integration and performance testing workflows with Python and Bash scripts, reducing manual effort and accelerating sprint delivery by 46%
   - Reduced system setup times by 30% using custom multi-platform Docker containers to automate local and staging environment setup, eliminating dependency issues for 20+ developers
   - Built and maintained CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, reducing release times by 63%
-
-  ### 🖥️ [Docker SSH Client](https://github.com/Ishaan-Datta/Docker-SSH-Client)
-  - Created a GoLang CLI tool to enable seamless SSH container access across local and remote environments, including user authentication and real-time status updates through gRPC services
 
   ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
   - Constructed GoLang application to query REST/GraphQL APIs upon receiving webhook payloads and send notifications to users on alternative platforms, increasing response times by 20%.
