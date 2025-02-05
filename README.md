@@ -8,7 +8,7 @@
 
 <h2 align="center"> Lead Software Engineer @ UBC Agrobot | Engineering @ UBC </h2>
 
-I'm exploring my interests in DevOps, Software Development/Optimization and Backend System Architecture.
+I'm exploring my interests in Robotics, DevOps and Backend Infrastructure.
 
 Feel free to send me a message or email: ishaandatta737@gmail.com
 
