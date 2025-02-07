@@ -42,15 +42,15 @@ Outside of work I like hiking, watching anime and listening to music :)
   - Designed a distributed messaging solution using object-oriented programming and Apache Kafka, achieving an overall 34% reduction in latency for upstream services
   - Built an API layer in FastAPI to integrate a JavaScript frontend with a database ORM, reducing manual querying time by 10+ hours per week through streamlined data handling
 
+  ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
+  - Decreased response times by 55% by developing a GoLang application to improve notification visibility on Slack using GitHub APIs and webhook payloads
+
   ### 🌿 [UBC Agrobot (Software Engineer)](https://ubcagrobot.com)
   I formerly worked on the Internal Tools subteam for UBC Agrobot, where I improved the robot communication architecture and developed various tools to improve developer productivity, my primary achievements include:
   - Developed and deployed C++ components using ROS2 and multi-threading to improve internal robotic system communication, reducing system-wide network latency from 2s to 0.1s
   - Automated unit, integration and performance testing workflows with Python and Bash scripts, reducing manual effort and accelerating sprint delivery by 46%
   - Reduced system setup times by 30% using custom multi-platform Docker containers to automate local and staging environment setup, eliminating dependency issues for 20+ developers
   - Built and maintained CI/CD pipelines using GitHub Actions to eliminate manual build and deployment operations, reducing release times by 63%
-
-  ### 🤖 [Github Notification System](https://github.com/Ishaan-Datta/Github-Notifier)
-  - Decreased response times by 55% by developing a GoLang application to improve notification visibility on Slack using GitHub APIs and webhook payloads
 
   ### ☁️ [Automated AWS Deployment](https://github.com/Ishaan-Datta/AWS-Deployment)
   - Reduced project deployment times by over 71% using Helm IaC templates to automate microservice architecture configuration on Kubernetes clusters across 5+ multiple availability zones 
